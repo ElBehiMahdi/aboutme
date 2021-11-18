@@ -1,4 +1,4 @@
-<h1 align="center">Hello, My name is Mahdi Behi</h1>
+<h1 align="center">Bonjour, Je suis Mahdi Behi</h1>
 <h3 align="center">Développeur Web full stack depuis plus de 4 ans, futur ingénieur et leader des projets, j'ai réalisé de nombreuses applications web et quelques applications mobile et desktop pour des projets personnels et des projets professionnels pour des grands groupes en Tunisie (Wevioo, Tritux, etc.).</h3>
 
 - 🌱 I’m currently learning **react, fullstack development**
